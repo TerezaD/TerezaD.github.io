@@ -1,0 +1,39 @@
+/*Toto je komentar, slouzi pouze pro poznamky. Svoje styly piste pod nej*/
+/*Napriklad:*/
+h1 { color: red; }
+nav {background-color:blue;
+	text-align: center;
+ }
+ ul li {display:inline-block;}
+ li a{padding: 20px;
+ 	color:white;
+ 	display: inline-block;
+ }
+ a{color:yellow;
+ 	text-decoration: none;
+ }
+ aside {float: left;
+ 	width: 28%;
+ }
+ article {float: right;
+ 	width: 68%;
+ 	text-align:justify;
+ }
+ footer {clear:both;
+ font-size: 90%;
+  }
+ blockquote {background-color:gray;
+ 	border-radius:30px;
+ 	padding: 20px;
+ }
+ header {text-align:center;
+ }
+ img {width: 100%;
+ }
+ article {margin-left: 2%;
+ 	margin-right: 2%;
+ }
+ .podtitul {font-style: italic;
+ 	color: grey;
+ }
+ body {font-family: "Georgia"}
